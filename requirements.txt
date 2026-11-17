@@ -1,0 +1,5 @@
+aiogram==3.32.0
+fastapi==0.163.2
+uvicorn[standard]==0.54.0
+reportlab==5.1.0
+python-dotenv==1.2.4
